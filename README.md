@@ -8,6 +8,7 @@ GOAL:
 - Raspberry and camera integration for octoprint
 - Dedicated Firmware
 - Bltouch integration
+- Cheapest as possible
 
 ![Alt text](/CAD/0.1/Anycube_0.1.JPG?raw=true "Optional Title")
 
