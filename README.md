@@ -1,5 +1,8 @@
 # Anycube
-Anycubic Mega i3 conversion to corexy (hypercube style)
+
+I'll be attempting do add a dual z configeration instead of the cantalevar bed. 
+
+Mega i3 conversion to corexy (hypercube style)
 
 GOAL:
 - Carry over of most of the original printer components
